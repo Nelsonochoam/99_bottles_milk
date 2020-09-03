@@ -1,1 +1,3 @@
-# 99bottles_js
+# 99 Bottles of OOP
+
+Exercise from the book 99 bottles of OOP from Sandy Metz
